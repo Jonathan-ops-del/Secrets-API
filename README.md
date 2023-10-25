@@ -12,4 +12,4 @@ Run this project using npm.
 5) You can now go to your browser and enter "http://localhost:3000/" to view the application
 
 
-**NOTE***This project has also been uploaded to Heroku, and you can simply use the link - https://sleepy-citadel-72681-f9cd64567628.herokuapp.com/ - to view the application on your Web Browser.
+**NOTE***This project has also been uploaded to Heroku, and you can simply use the link - https://arcane-island-36036-1b5ffe17f31e.herokuapp.com/ - to view the application on your Web Browser.
