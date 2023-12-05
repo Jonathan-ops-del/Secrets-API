@@ -1,7 +1,7 @@
 # Secrets-API
 Using EJS, NodeJS, and Axios with a third party API to view User Secrets
 
-In this project, we are using a third party API provided by Angela Yu from her Online Udemy Web Course. The API is - https://secrets-api.appbrewery.com/. We are using EJS Templating , Node.js, & Axios to extract data fromthe third party API and incorporate it into our Web Application. When you follow the below steps to get the Application running, you will be able to see different users and their unique secrets by refreshing the page first and then hovering over the center image.
+In this project, we are using a third party API provided by Angela Yu from her Online Udemy Web Course. The API is - https://secrets-api.appbrewery.com/. We are using EJS Templating , Node.js, & Axios to extract data from the third party API and incorporate it into our Web Application. When you follow the below steps to get the Application running, you will be able to see different users and their unique secrets by refreshing the page first and then hovering over the center image.
 
 Run this project using npm.
 
